@@ -1,8 +1,8 @@
 # Proyek Pemrograman Mobile
 ## Deskripsi
-Aplikasi latihan untuk ...
+Aplikasi latihan untuk perkuliahan P Mobile
 ## Pengembang
-Nama panggilan / akun GitHub: ...
+Nama panggilan / akun GitHub: Agus /agusprasetya246
 ## Status
 Proyek awal perkuliahan.
 
