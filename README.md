@@ -1,10 +1,20 @@
 # Proyek Pemrograman Mobile
 ## Deskripsi
-Aplikasi latihan untuk perkuliahan P Mobile
+Aplikasi latihan pemrograman mobile berbasis Flutter.
 ## Pengembang
-Nama panggilan / akun GitHub: Agus /agusprasetya246
+Nama panggilan / akun GitHub: Agus/agusprasetya246-glitch
 ## Status
 Proyek awal perkuliahan.
+## Rencana Fitur
+1. Autentikasi Pengguna
+2. Pencatatan Tugas / Aktivitas Harian
+3. Notifikasi Pengingat
+
+## Cara Menjalankan
+1. Pastikan Flutter SDK sudah terpasang.
+2. Jalankan perintah instalasi dependency:
+   ```bash
+   flutter pub get
 
 # aplikasi_pertama
 
@@ -23,3 +33,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
